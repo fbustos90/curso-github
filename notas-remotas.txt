@@ -1,0 +1,6 @@
+este archivo se creo directamente desde github
+
+estamos aprendiendo
+git fetch : consulta los cambios que haya en github
+git pull : consulta y aplica los cambios a nuestro repositorio
+git push : manda los cambios 

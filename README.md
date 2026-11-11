@@ -15,6 +15,7 @@ Proyecto de práctica para aprender Git y GitHub
 ## Version2
 
 ## Version3
+
 La calculadora permite:
 - sumar
 - restar
@@ -23,3 +24,4 @@ La calculadora permite:
 
 La división incluye la prohibición para dividir entre cero
 
+Esta parte no está sincronizada en el repositorio local, solo existe en el remoto

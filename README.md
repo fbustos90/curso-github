@@ -25,3 +25,6 @@ La calculadora permite:
 La división incluye la prohibición para dividir entre cero
 
 Esta parte no está sincronizada en el repositorio local, solo existe en el remoto
+
+
+Nueva línea creada desde el repositorio local
